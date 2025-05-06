@@ -12,4 +12,4 @@ Run as admin
 
 ```powershell
 .\Office365PatchTues-UpdateRepair.ps1
-``
+```
